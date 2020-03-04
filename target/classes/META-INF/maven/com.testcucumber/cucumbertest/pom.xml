@@ -30,7 +30,7 @@
 		<gif.lib.version>1.2</gif.lib.version>
 		<freemaker.version>2.3.23</freemaker.version>
 		<log4j.version>2.11.2</log4j.version>
-		<jackson.core>2.9.4</jackson.core>
+		<jackson.core>2.9.10.3</jackson.core>
 		<spring.core>5.0.4.RELEASE</spring.core>
 		<restassured.version>3.1.0</restassured.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
